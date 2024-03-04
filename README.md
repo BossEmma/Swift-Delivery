@@ -1,5 +1,5 @@
 # Swift-Delivery
-  Explore delivery excellence with our sleek courier portal. Designed by me, it's easy to use and looks great. You can track packages and manage orders effortlessly.
+  Explore delivery excellence with our sleek courier portal. It's easy to use and looks great. You can track packages and manage orders effortlessly.
 
 
 ## Technologies Used:
