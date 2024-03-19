@@ -1,0 +1,19 @@
+
+
+.light{
+    --primary-bg-color: red;
+    --secondary1-bg-color: green;
+    --secondary2-bg-color: green;
+    --header-text-color: green;
+    --sub-header-text-color: white;
+    --text-color: white;
+}
+
+.dark{
+    --primary-bg-color: red;
+    --secondary1-bg-color: green;
+    --secondary2-bg-color: green;
+    --header-text-color: green;
+    --sub-header-text-color: white;
+    --text-color: white;
+}
